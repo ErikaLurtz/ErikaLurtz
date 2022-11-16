@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErikaLurtz
-- 👀 I’m interested in learning in coding 
+- 👀 I’m interested in learning code writing 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on easy complexity projects
 - 📫 How to reach me: erika.lurtz@gmail.com
